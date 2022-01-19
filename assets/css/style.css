@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 60%;
   height: 60vh;
-  background: url("assets/img/web.jpg") top right no-repeat;
+  background: url("assets/img/web.jpg");
   background-size: cover;
   position: relative;
 }
