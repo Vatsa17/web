@@ -240,9 +240,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 10%;
-  height: 10vh;
-  background: url("assets/img/web.jpg");
+  width: 50%;
+  height: 50vh;
+  background: url("assets/img/web.jpg") top right;
   background-size: cover;
   position: relative;
 }
