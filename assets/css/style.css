@@ -245,9 +245,9 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     left: 0;
     width: 30%;
-    height: 125%; /* To compensate for mobile browser address bar space */
+    height: 100%; /* To compensate for mobile browser address bar space */
     background: url("../img/img.jpg") no-repeat; 
-    background-size: 80% 800%;
+    background-size: 125% 125%;
 }
 
 #hero {
