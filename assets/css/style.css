@@ -244,9 +244,9 @@ h1, h2, h3, h4, h5, h6 {
     z-index: -1;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 50%;
     height: 125%; /* To compensate for mobile browser address bar space */
-    background: url(/images/bg.jpg) no-repeat; 
+    background: url("../img/img.jpg") no-repeat; 
     background-size: 100% 100%;
 }
 
